@@ -1,0 +1,21 @@
+html {
+    background-color: antiquewhite;
+}
+h1 {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 36px;
+    color: orangered;
+    padding-top: 25px;
+}
+ul {
+    width: 450px;
+    background-color: #ffd7c7;
+    margin: 100px auto;
+    padding: 50px;
+    color: orangered;
+}
+a {
+    color: #262b2b;
+    font-size: 20px;
+}
